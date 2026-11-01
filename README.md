@@ -4,12 +4,8 @@ Game sederhana Batu Gunting Kertas untuk Python.
 
 ## Cara Menjalankan
 
-1. Buka terminal.
-2. Masuk ke folder:
-   ```
-   cd "d:\datawebsite\Project AI agent\Batu Gunting Kertas"
-   ```
-3. Jalankan:
+1. Buka terminal di folder project.
+2. Jalankan:
    ```
    python main.py
    ```
